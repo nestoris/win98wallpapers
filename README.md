@@ -25,6 +25,12 @@ This wallpaper was inspired by 640x480 px one from MS Windows(R) 98 installation
 * [1920x1080 px.](setup.bmp/medium/1920x1080_light_blur.png "1920x1080")
 * [1366x768 px.](setup.bmp/medium/1366x768_light_blur.png "1366x768")
 
+#### WinDark
+
+![Dark](setup.bmp/medium/640x360_windark.png)
+
+* [3840x2160 px. dark](setup.bmp/medium/3840x2160_windark.png "dark & soft")
+
 ### Large size of logo
 
 ![Large size of logo](setup.bmp/large/640x360.png)
